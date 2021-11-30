@@ -1,0 +1,14 @@
+@font-face{
+    font-family: livvic;
+    src: url('../Font/Livvic/Livvic-Regular.ttf');
+}
+
+@font-face{
+    font-family: monhave;
+    src: url('../Font/Mohave/Mohave-VariableFont_wght.ttf');
+}
+
+@font-face{
+    font-family: Roboto;
+    src: url('../Font/Roboto/Roboto-Regular.ttf');
+}
